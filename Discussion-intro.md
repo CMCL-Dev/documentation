@@ -3,12 +3,12 @@
     ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions as a forum.
 -->
 ## 👋 欢迎来到Convenient MCL社区！
-  我们利用`Github Discussions`来把这里改造成一个讨论平台:
+  我们利用[`Github Discussions`](https://docs.github.com/cn/discussions)来把这里改造成一个讨论平台:
   * 问一些你不太确定的问题
   * 分享你的主意
-  * 鼓励其他社区创作者投入`Convenient MCL`的开发。
+  * 鼓励其他社区创作者投入[`Convenient MCL`](https://github.com/CMCL-Developing/CMCL-Windows)的开发。
   * 欢迎其他人。记住：这是一个属于开发者们的讨论社区 💪.
-另外说一句，`Convenient MCL`将对积极`Pull Request&Issue&Discuss`的同志们一些惊喜！
+另外说一句，[`Convenient MCL`](https://github.com/CMCL-Developing/CMCL-Windows)将对积极[`Pull Request`](https://github.com/CMCL-Developing/CMCL-Windows/pulls) & [`Issue`](https://github.com/CMCL-Developing/CMCL-Windows/issues) & [`Discuss`](https://github.com/CMCL-Developing/CMCL-Windows/discussions)的同志们一些惊喜！
 
 <!--
   For the maintainers, here are some tips 💡 for getting started with Discussions. We'll leave these in Markdown comments for now, but feel free to take out the comments for all maintainers to see.
