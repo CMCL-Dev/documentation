@@ -1,4 +1,4 @@
-中文介绍 | [English](https://github.com/cmcl-developing/cmcl-windows/discussions/)
+中文介绍 | [English](https://github.com/cmcl-developing/cmcl-windows/discussions/3)
 <!--
     ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions as a forum.
 -->
